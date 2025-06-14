@@ -4,5 +4,6 @@ public class Rajni{
         System.out.println("Rajni da");
         System.out.println("Thee Thalapathy!!!");
         System.out.println("Jai babu");
+        System.out.println("Pspk");
     }
 }
